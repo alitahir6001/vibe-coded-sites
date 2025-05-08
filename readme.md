@@ -1,6 +1,12 @@
-# Landing Page (vibed)
+# Vibed Landing pages
 
-### I vibe coded this html prototype for a personal site/landing page in like 10 minutes, one shot. 
+### I vibe coded these html prototypes for a personal site/landing page in like 10 minutes, most of them in one shot. 
 
-### Used Gemini 2.5 Pro + Cursor while chewing some gum.
+## Gemini Vibe:
+### - Used Gemini 2.5 Pro + Cursor while chewing some gum.
+
+## Claude Vibe:
+### - Used Claude 3.7 Sonnet + Cursor (no chewing gum).
+
+
 
